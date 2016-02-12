@@ -2,3 +2,4 @@ Library/
 Builds/
 Temp/
 *.sln
+*.userprefs
