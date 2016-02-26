@@ -3,3 +3,4 @@ Builds/
 Temp/
 *.sln
 *.userprefs
+*.csproj
